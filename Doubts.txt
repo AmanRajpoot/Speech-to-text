@@ -1,0 +1,7 @@
+1. There is a dictionary already implemented. Write a method, which takes input String without space, to prints all subsets of the input string which is present in dictionary.
+
+Example: Dictionary – a*
+………….Input- aaabaa
+………….Output- a,a,a,aa,aa,aaa,a,a,aa
+2. Find the smallest window in a string containing all characters of another string (aadha samjh aaya)
+3. 
